@@ -1,2 +1,2 @@
-# Deep-Learning-Final
-hosting the project training and test images in this repository for now
+# Deep-Learning
+Google colab notebooks on topics - RNN, CNN, Dense classifiers, and supervised learning.
