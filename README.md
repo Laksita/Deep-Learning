@@ -1,2 +1,2 @@
 # Deep-Learning
-Google colab notebooks on topics - RNN, CNN, Dense classifiers, and supervised learning.
+Google colab notebooks on topics - CNN, RNN, Dense classifiers, Binary and Multi class Classification and Supervised learning.
